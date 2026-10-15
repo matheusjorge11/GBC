@@ -7,4 +7,4 @@
 
 [Minhas anotações de COMP1238](comp1238.md)
 
-https://matheusjorge11.github.io/GBC/
+matheus.deoliveirajorge@georgebrown.ca
